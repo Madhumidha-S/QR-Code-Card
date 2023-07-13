@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    margin: auto;
+    background-color: hsl(212, 45%, 89%);
+    font-family: sans-serif;
+}
+
+img{
+    width: 315px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 17px auto;
+}
+
+h2{
+    color: hsl(218, 44%, 22%);
+    margin: 10px 30px;
+    font-size: 1.43rem;
+    font-weight: bolder;
+}
+
+p{
+    color: hsl(220, 15%, 55%);
+    margin: 5px 30px;
+    font-size: 16px;
+    margin: 20px auto;
+}
+
+.container{
+    width: 350px;
+    height: 540px;
+    margin: 100px auto;
+    background-color: #fff;
+    border-radius: 18px;
+}
+
+.attribution{ 
+    font-size: 16px; text-align: center; 
+    margin: 0 auto 20px;
+}
+
+.attribution a {
+     color: hsl(228, 45%, 44%);
+}
